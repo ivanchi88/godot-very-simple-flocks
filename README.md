@@ -10,6 +10,11 @@ The idea behind this project is to learn (and remember) basic godot functionalli
 
 ![imagen](https://user-images.githubusercontent.com/15201222/113517389-ea58b780-957f-11eb-9b60-62ef5ca34e9d.png)
 
+Also weird flies included!
+
+![imagen](https://user-images.githubusercontent.com/15201222/113517556-e9745580-9580-11eb-89cb-9ebdd2b1d0de.png)
+
+![imagen](https://user-images.githubusercontent.com/15201222/113517561-eb3e1900-9580-11eb-80b0-6548ddcacc5e.png) 
 
 Sources for the flocks simulation:
 
