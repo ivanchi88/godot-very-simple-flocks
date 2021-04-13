@@ -16,6 +16,9 @@ Also weird flies included!
 
 ![imagen](https://user-images.githubusercontent.com/15201222/113517561-eb3e1900-9580-11eb-80b0-6548ddcacc5e.png) 
 
+Mini youtube video demo:
+https://youtu.be/YC8FMabus6s
+
 Sources for the flocks simulation:
 
 https://www.red3d.com/cwr/steer/
